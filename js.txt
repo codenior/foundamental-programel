@@ -82,3 +82,406 @@ Sekarang giliran kamu untuk bermain fungsi di Javascript
 Var pada javascript
 
 Ada juga loh cara lain mendeklarasikan variable selain let dan const, yaitu var
+
+Array 
+
+Kita bisa menyimpan beberapa data sekaligus dalam sebuah array dan menampilkannya dengan loop
+
+Bagian: Array
+Perkenalan array dan loop
+
+Keluar dari dasar bahasa program Javascript. Kita masuk ke dunia array dan loop
+
+Array Javascript
+
+Simpan beberapa data sekaligus pada array
+
+Metode metode array
+
+Pelajari metode metode bawaan dari array
+
+Latihan array
+
+Waktunya latihan seputar array
+
+Bagian: Loop
+Mengenal loop
+
+Loop adalah cara kita melakukan sesuatu yang sama berkali kali pada pemrograman
+
+Menampilkan array dengan for loop
+
+Cara mengeluarkan semua isi array dengan loop
+
+While loop
+
+Alternatif dari for loop adalah while loop
+
+Loop dengan do While
+
+Selain while ada juga loop dengan do while
+
+Metode dan loop array
+
+Latihan menggunakan loop untuk array yang sudah dimanipulasi
+
+Modul: Struktur kontrol
+Mengatur alur jalannya program dengan struktur kontrol
+
+Bagian: Dasar struktur kontrol
+Mengenal struktur kontrol
+
+Waktunya mengintip struktur kontrol untuk membuat program kamu jadi JAUH lebih cerdas
+
+Tipe data boolean
+
+Tipe data unik ini penting untuk dipelajari agar program kamu makin pintar
+
+Bagian: If, Else dan Switch
+If Conditional
+
+Membuat logika untuk menentukan langkah apa yang dilakukan berdasarkan kondisinya, dengan if conditional
+
+If dan else
+
+Kita juga bisa mengeksekusi kode khusus jika nilai kondisinya salah
+
+Operator sama dengan
+
+Untuk menguji kondisi kita bukan hanya harus melihat true atau false nya langsung, terkadang perlu kondisi yang lebih kompleks dari itu
+
+Else if
+
+Membuat dua logikan atau lebih dengan bantuan else if
+
+Switch case
+
+Punya banyak kondisi yang harus dipikirkan? pakai switch case!
+
+Break pada loop
+
+Hentikan pengulangan pada kondisi tertentu dengan break
+
+continue pada loop
+
+Perlu skip bagian tertentu pada saat dalam sebuah pengulangan?
+
+Latihan mencari array
+
+Waktunya melatih logika kamu dengan kasus kondisional
+
+Lewati dan Cetak Kelipatan Tertentu
+
+Latihan lagi dengan break dan continue
+
+Bagian: Gerbang logika
+Mengenal Gerbang logika
+
+Pelajaran anak elektro, tapi dipakai di logika pemrograman :)
+
+AND &&
+
+Menguji apakah dua syarat sudah terpenuh atau tidak
+
+OR ||
+
+Gerbang logika untuk menguji apakah salah satu nilai sudah benar
+
+Negasi (!)
+
+Menguji lawan nilai dari variabel
+
+Lebih besar dan lebih kecil
+
+Menguji nilai apakah ia Lebih besar dan lebih kecil dari nilai lainnya
+
+3 sama dengan ===
+
+Menguji kesamaan nilai dan juga tipe datanya
+
+Latihan sederhana
+
+Buat fungsi sederhana
+
+Simulasi sistem login
+
+Yuk kita latih logika dengan membuat simulasi sistem login
+
+Bagian: Latihan logika Javascript
+Latihan latihan dan latihan
+
+Waktunya kamu latihan yang banyak
+
+Program bayar utang
+
+Buat program untuk keterangan dari sisa utang
+
+Fungsi untuk Array
+
+Tugas untuk Menguji nilai array
+
+Fungsi Pencarian dalam Array
+
+Yuk cari nilai dalam sebuah array
+
+Mengubah nilai angka menjadi skor huruf
+
+Latih loogika kondisional kamu dengan soal ini
+
+Modul: HTML DOM
+Waktunya kita berinteraksi dengan halaman website lewat DOM
+
+Bagian: DOM time
+Waktunya DOM!
+
+Berkenalan dengan DOM alias Document Object Model pada Javascript
+
+Mengakses DOM
+
+Bagaimana cara mengakses DOM dengan Javascript
+
+Mengubah DOM
+
+Bagaimana merubah tampilan atau DOM pada HTML dengan Javascript
+
+Mengubah style CSS via DOM
+
+Bukan hanya text, style nya pun bisa kamu ubah lewat DOM
+
+Menambahkan dan Menghapus Elemen HTML via DOM
+
+Cara menambah ata menghapus Elemen HTML via DOM
+
+insertAdjacentElement - posisi elemen baru
+
+Pelajari cara menggunakan metode insertAdjacentElement pada JavaScript untuk menyisipkan elemen HTML di posisi tertentu. Tutorial ini dilengkapi dengan contoh kode yang mudah dipahami dan diikuti
+
+insertAdjacentHTML - tambah HTML baru
+
+Selain elemen biasa, kita juga bisa menambahkan sebuah elemen HTML penuh pada elemen lainnya
+
+Bagian: Event DOM
+Event pada DOM
+
+Mendeteksi kejadian pada DOM
+
+Onclick Javascript
+
+Mendeteksi saat sebuah elemen di klik
+
+Mouse event Javascript
+
+Setiap gerakan mouse pun bisa kita deteksi dengan event javascript
+
+Keydown event
+
+Mendeteksi saat user sedang mengetik sesuatu pada keyboardnya
+
+On Load event
+
+Deteksi ketika seluruh halaman kamu sudah terload pada website
+
+Form event submit
+
+Mendeteksi ketika form telah disubmit pada javascript
+
+Bagian: Latihan to do list
+Membuat to do list
+
+Waktunya kita praktek dengan membuat to do list sederhana pada javascript
+
+Modifikasi to do list
+
+Yuk coba utak atik aplikasi yang sudah kita buat
+
+Hitung item pada to do list
+
+Bagaimana kalau kita ingin menampilkan counter ada berapa jumlah itemnya
+
+Tambah validasi
+
+Tambahkan logika dalam menguji input dari user
+
+Item tidak boleh kembar
+
+Bagaimana kalau kita mau menambahkan fitur untuk mendeteksi item tidak boleh sudah ada di list
+
+Bagian: Navigasi DOM
+Navigasi pada DOM
+
+Jelajahi elemen elemen pada HTML berdasarkan posisinya terhadap elemen lain
+
+Parent element
+
+Menangkap pembungkus dari elemen HTML dengan parent element
+
+Child element
+
+Jelajahi anak dari elemen tertentu dengan child element
+
+Sibling element
+
+Selain parent dan child, kita juga bisa menjelajahi saudara saudara elemen ini yang berada di satu level yang sama.
+
+Modul: BOM
+Berinteraksi langsung dengan browser lewat BOM!
+
+Bagian: Intro BOM
+Kenalan dengan BOM
+
+mengontrol jendela browser, mengubah ukuran, memuat halaman baru, dan banyak lagi lewat BOM
+
+Window Object
+
+window adalah komponen utama untuk mengakses BOM
+
+Window Screen Object
+
+Dapatkan informasi screen dari user lewat window screen
+
+Window Location
+
+Akses informasi tentang URL saat ini dari jendela browser dengan window location
+
+Window history
+
+Berinteraksi dengan riwayat browser lewat history object
+
+Alert dan Confirmation box
+
+Munculkan alert atau dialog konfirmasi pada browser kamu dengan ini. Bisa kondisional loh tergantung pilihan user
+
+Timing function
+
+Delay sebuah fungsi atau set agar ia dijalankan berkali-kali dengan timing function pada javascript
+
+Modul: Object Javascript
+Hampir semua hal pada Javascript adalah object. Karena itu penting memahami konsep ini
+
+Bagian: Intro Object
+Perkenalan Object Javascript
+
+Konsep yang sangat penting yang perlu kamu pelajari dalam dunia Javascript! object!
+
+Bermain dengan property object
+
+Kita bisa memberi banyak properti pada sebuah object
+
+Metode property
+
+Berikan fungsi canggih yang melekat pada object kamu
+
+Menampilkan object dengan DOM
+
+object tidak hanya hidup di kode Javascript, tapi nilainya bisa ditampilkan pada layar seperti biasa
+
+Object constructor
+
+Pada saat membuat object di awal, kita bisa meminta beberap property wajib yang perlu diisi
+
+Loop pada Object
+
+Cara mengeluarkan semua isi object dengan loop
+
+Membuat Daftar Belanja dengan JavaScript Objects
+
+Waktunya kamu latihan menggunakan object pada Javascript
+
+Modul: Mengenal API
+Dengan API kita bisa berinteraksi ke kode backend atau database, baik milik sendiri atau orang lain
+
+Bagian: Intro dunia API
+Masuk ke dunia API
+
+Sejauh ini kita hanya belajar baigan frontend, sampai negara API menyerang :P
+
+Hubungan API dan Javascript
+
+Bagaimana sih sebenarnya hubungan antara API dan Javascript
+
+Membaca data API dengan Fetch
+
+Intip cara membaca data dari API dengan metode Fetch pada Javascript
+
+Bagian: Asynchronous
+Konsep asinkron
+
+Pelajari apa itu konsep asinkron pada pemrograman khususnya Javascript.
+
+Metode async/await Javascript
+
+Alternatif penulisan untuk metode asinkron agar lebih mudah dibaca dan bisa menghindari kesalahan.
+
+Amankan dengan try catch
+
+Data API yang kita coba akses belum tentu berhasil, bisa jadi servernya error atau kejadian lain, karena itu perlu ada cara untuk menanganinya.
+
+Bagian: Bermain dengan API
+Membaca data dari API
+
+Waktunnya kita bermain API! bukan api yang panas ya :)
+
+Menampilkan data dari API
+
+Kita tampilkan data yang didapat dari API pada browser kita langsung
+
+Mengenal JSON
+
+Belajar JSON, struktur data yang sangat popule di dunia pemrograman
+
+Metode metode API
+
+Ada beberapa metode HTTP API yang disupport
+
+Mengirim data ke API
+
+Belajar bagaima cara Mengirim data ke API dari Javascript
+
+Latihan API
+
+Waktunya kamu latihan menampilkan data dari sumber API yang lain
+
+Modul: Web API
+Program program atau API yang tersedia pada Javascript untuk digunakan pada sebuah website
+
+Bagian: Intro Web API
+Mengenal Web API
+
+Belajar apa itu Web API dan ada apa saja yang tersedia
+
+Bagian: WebStorage API
+localStorage API
+
+Menyimpan data pada browser dengan local storage
+
+Beberapa data pada satu item
+
+Bagaimana cara membaca dan memanipulasi beberapa data yang tersimpan pada satu item di localstorage?
+
+Tugas daftar murid
+
+Waktunya kamu latihan menyimpan data pada browser dengan localStorage
+
+Modul: Tugas Akhir
+Waktunya kamu mengerjakan tugas tugas yang banyak!
+
+Bagian: Tugas Latihan
+Tugas tugas latihan
+
+Waktunya kamu latihan yang banyak
+
+Membuat kuis interaktif
+
+Coba bikin kuis interaktif dengan Javascript
+
+Aplikasi pencatatan keuangan
+
+Sekarang kita buat mini aplikasi untuk membuat catatan keuangan pribadi kita
+
+Cuaca hari ini
+
+Dengan ilmu avatar API yang kamu punya :P, cari tahu cuaca hari ini dengan APi
+
+Ke mana sekarang
+Selamat! kita sudah selesai belajar javascript dasar, masih banyak rahasia dan kekuatan javascript, mulai belajar teknik DOM pada javascript atau penggunaan objek
+

@@ -1,0 +1,84 @@
+Eksplor dunia Javascript, pelajari dasar dasar dari bahasa pemrograman super flexible ini!
+
+Bagian: Perkenalan dan persiapan
+Intro
+
+Selamat datang di course Javascript ini!
+
+Menggunakan Javascript
+
+Ada berbagai cara untuk menggunakan Javascript
+
+Bahasa program Javascript
+
+Sebelum melihat berbagai fungsi canggih Javascript, kita akan belajar Javascript dari sisi dasar bahasa program
+
+Bagian: Variabel dan tipe data
+Variabel dan tipe data
+
+Mengenal konsep Variabel dan tipe data pada Javascript
+
+Variabel
+
+Variabel adalah cara kita menyimpan nilai agar mudah diakses. Belajar cara membuat dan aturan memberi nama variabel pada Javascript
+
+Tipe data string
+
+Kita akan mulai membahas salah satu tipe data pada Javascript yaitu String
+
+Menggabungkan string
+
+Sama seperti angka yang bisa dijumlahkan, string juga bisa kita gabungkan loh
+
+Metode metode String
+
+Javascript punya beberapa metode bawaan untuk tipe data String
+
+Laithan mengubah teks
+
+Waktunya kita latihan
+
+Tipe data Number
+
+Kembali ke angka. Javascript juga punya tipe data number untuk menuliskan sebuah angka.
+
+Operator Matematika
+
+Selain penjumlahan, ada banyak operator matematika lain untuk bermain dengan angka, sama seperti di dunia nyata.
+
+Mengubah nilai variabel
+
+Nilai sebuah variable pada let bisa diubah dengan memberi nilai baru pada nama variabel tersebut.
+
+Mengenal const
+
+Apa itu const , apa perbedannya antara const dan let dalam membuat sebuah variabel di Javascript?
+
+Komentar
+
+Mengenal apa itu komentar pada Javascriptt
+
+Bagian: Function Javascript
+Function
+
+Belajar apa itu Function alias fungsi pada Javascript
+
+Parameter pada fungsi
+
+Bikin fungsi kamu lebih canggih dengan bantuan parameter
+
+Return pada function
+
+Sebuah fungsi bisa mengembalikan nilai, agar hasilnya bisa diolah lebih lanjut
+
+Scope variable
+
+Pelajari seputar scope alias lingkup hidup dari sebuah variable javascript
+
+Latihan fungsi
+
+Sekarang giliran kamu untuk bermain fungsi di Javascript
+
+Var pada javascript
+
+Ada juga loh cara lain mendeklarasikan variable selain let dan const, yaitu var
